@@ -67,9 +67,6 @@ This guide explains how to sonify data from space represented as tensors. Sonifi
 
 Remember that sonifying complex data like tensors from space may require collaboration between data scientists, audio engineers, and domain experts. Tailor your approach to the data's characteristics and project goals.
 
----
-
-Feel free to use this README template as a starting point for your project documentation on GitHub or any other platform. Customize it to match your specific project requirements and provide additional details as needed.
 ---------------------------------------------
 
 __Demo:__ [YouTube](https://youtu.be/yk4MsgO-85o?si=4aQIQUbsEuaLhUYu)
