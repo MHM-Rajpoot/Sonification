@@ -13,7 +13,6 @@ This guide explains how to sonify data from space represented as tensors. Sonifi
 5. [Sound Synthesis](#sound-synthesis)
 6. [Auditory Feedback](#auditory-feedback)
 7. [Testing and Evaluation](#testing-and-evaluation)
-8. [Documentation and Interpretation](#documentation-and-interpretation)
 
 ---
 
