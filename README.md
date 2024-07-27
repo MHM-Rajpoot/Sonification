@@ -4,6 +4,8 @@
 
 This guide explains how to sonify data from space represented as tensors. Sonification involves converting data into sound, making it accessible and informative through auditory means.
 
+In this project, I have developed a novel software that generates unique audio profiles based on visual inputs captured by a camera. Specifically, I have focused on space exploration, where the absence of particles renders sound inaudible. To enhance the experiential aspect of space travel, my software creates an immersive audio experience, effectively giving 'voice' to the vastness of space. By translating visual data into an auditory landscape, this innovation aims to revolutionize the way we perceive and interact with the cosmos.
+
 ## Table of Contents
 
 1. [Data Preparation](#data-preparation)
